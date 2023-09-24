@@ -3,6 +3,9 @@ This project is a simplified clone of the YouTube homepage,
 It is designed to mimic the look and feel of YouTube's homepage as closely as possible.
 It is a static front-end project built with HTML and CSS, that reproduces the visual design of YouTube's homepage, including the navigation bar, video feed, and sidebar
 
+## Overview
+<img src ="./images/youtube-homepage-clone-overview.png">
+
 ## Demo
 > This gif shows a brief overview of the project, and it may take a while to load!
 <img src ="./images/youtube-homepage-clone-demo.gif">
